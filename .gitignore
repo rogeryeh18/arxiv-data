@@ -1,0 +1,5 @@
+.ruff_cache
+.venv
+.vs
+__pycache__
+*.pyc
